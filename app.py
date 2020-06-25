@@ -16,5 +16,8 @@ def function1(num1, num2):
 def function2():
     return print('function2 print')
 
+def function3():
+    return print('function3 print')
+
 function1(2, 2)
 function2()
